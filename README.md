@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # aycalendar
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# AyCalendar
+Projet Transverse L3
+>>>>>>> 390f5a199eb3addd3d3eb31a837f01bd4157b4d2
